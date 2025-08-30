@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "movies-db": {
+        "url": "http://0.0.0.0:4567/mcp",
+        "transport": "streamable-http"
+    }
+  }
+}

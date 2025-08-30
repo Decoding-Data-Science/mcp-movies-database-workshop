@@ -1,0 +1,5 @@
+1. tools
+2. ReAct prompt 
+3. mcp server - fastmcp
+4. stdio vs. sse vs. streamable-http 
+5. mcp client - mcp-use + streamlit, Cursor, Windsurf etc
